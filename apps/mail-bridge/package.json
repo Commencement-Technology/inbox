@@ -35,7 +35,7 @@
     "mailparser": "^3.7.1",
     "mime": "^4.0.4",
     "mysql2": "^3.11.0",
-    "nanoid": "^5.0.7",
+    "nanoid": "^5.0.9",
     "nodemailer": "^6.9.14",
     "superjson": "^2.2.1",
     "zod": "^3.23.8"
